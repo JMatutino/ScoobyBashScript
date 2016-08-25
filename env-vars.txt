@@ -1,0 +1,8 @@
+MBE_VENDOR,/home/test1/mbe/vendor/x86/64Bit/Linux
+MBE_HOME,/home/test1/mbe/MBE_SDK_v01.1
+MBE_BUILD,$MBE_HOME/build
+MBE_RTF,$MBE_BUILD/rtf
+MBE_INSTANCE_FINGERPRINT, 
+PKG_CONFIG_PATH,/usr/local/lib/pkgconfig
+LD_LIBRARY_PATH,$MBE_VENDOR/boost/lib:$MBE_VENDOR/symmetricom:$MBE_VENDOR/rti-ndds/lib:$MBE_BUILD/lib:/usr/local/lib:$LD_LIBRARY_PATH
+
